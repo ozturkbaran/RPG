@@ -11,4 +11,5 @@ enum class EGASAbilityInputID : uint8
 	Confirm,
 	Cancel,
 	Attack
+	Fireball
 };
